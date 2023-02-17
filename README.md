@@ -28,4 +28,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoCaron}/count.svg" /></p> 
 <br></div>
 
-![Snake animation](https://github.com/GustavoCaron/GustavoCaron/blob/output/contribution-grid-snake.svg)
+![Snake animation](https://github.com/GustavoCaron/GustavoCaron/blob/output/github-contribution-grid-snake.svg)
