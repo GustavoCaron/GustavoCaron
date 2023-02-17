@@ -24,8 +24,7 @@
     <a href = "https://www.instagram.com/gustavocaron7/">
       <img width="40" src="https://user-images.githubusercontent.com/103007640/219753461-c46cf8f2-16f2-4138-8f64-7580f098b2ef.png">
     </a>
-<br><h1 align="centre"><b>Visitors Count</b></h1>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoCaron}/count.svg" /></p> 
-<br></div>
-
+    <br><h1 align="centre"><b>Visitors Count</br></h1>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoCaron}/count.svg" /></p>
+</div>
 ![Snake animation](https://github.com/GustavoCaron/GustavoCaron/blob/output/github-contribution-grid-snake.svg)
